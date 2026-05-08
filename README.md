@@ -10,7 +10,7 @@ pkg install python3 git -y
 apt install python-cryptography
 termux-setup-storage
 ```
-**نکته مهم**: دستور بالا حتما یک بار به کانفیگ چیزی وصل باشید ک نصب  شه
+~**نکته مهم**: دستور بالا حتما یک بار به کانفیگ چیزی وصل باشید ک نصب  شه~
 
 پایتون باچیزای ک نیاز به نصب داره
 [اموزش دانلود و اجرا MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md#%D9%85%D8%B1%D8%AD%D9%84%D9%87-1-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%BE%D8%B1%D9%88%DA%98%D9%87)
