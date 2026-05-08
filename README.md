@@ -1,6 +1,5 @@
 # MasterHttpRelayVPN + termux +psiphon
-کاربرد: تونل کردن MasterHttpRelayVPN همه برنامه تو اندروید
-
+کاربرد: تونل کردن MasterHttpRelayVPN همه برنامه تو اندروید [متن قبلی](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/issues/838)
 # اموزش با متن:
 
 پیش‌نیاز 
