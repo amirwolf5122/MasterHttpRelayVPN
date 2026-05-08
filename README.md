@@ -1,0 +1,42 @@
+# MasterHttpRelayVPN + termux +psiphon
+پیش‌نیاز 
+---
+ترموکس
+```
+pkg install python3 git -y
+apt install python-cryptography
+termux-setup-storage
+```
+**نکته مهم**: دستور بالا حتما یک بار به کانفیگ چیزی وصل باشید ک نصب  شه
+
+پایتون باچیزای ک نیاز به نصب داره
+[اموزش دانلود و اجرا MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md#%D9%85%D8%B1%D8%AD%D9%84%D9%87-1-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%BE%D8%B1%D9%88%DA%98%D9%87)
+ترکیب با
+سایفون
+---
+حتما از 
+https://github.com/masterking32/MasterHttpRelayVPN
+استفاده کنید با
+ mhrv-rs
+تست زدم نشد
+کد با ترموکس ران کنید
+بعد
+ ca certificate 
+شو دستی نصب کنید بریز به حافظه 
+بعد با http سایفون
+در مسیر options=>proxy settings
+هاست 127.0.0.1
+پورت هم خودتون تو config.json وارد کردید بزنید
+
+یک نکته ک هست سایفون فقط اپ های ک میخواید تانل شه انتخاب کنید
+مسیر 
+options=>vpn settings=>only tunnel selected apps
+
+سایفون ترکیب کنید وصل شید منتظر بمونید تا تلگرام لود شه
+نمونه:
+
+
+https://punkpaste.ir/f/Screenshot-2026-05-0-31b5rq
+https://punkpaste.ir/f/Screenshot-2026-05-0-ngqp8w
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c9fc286c-23fb-4149-9402-c7c76c9c694e" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/11f1d67a-b8b7-4d6d-9b17-02e3b4fcc716" />
