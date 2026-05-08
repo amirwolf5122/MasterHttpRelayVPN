@@ -1,4 +1,8 @@
 # MasterHttpRelayVPN + termux +psiphon
+کاربرد: تونل کردن MasterHttpRelayVPN همه برنامه تو اندروید
+
+# اموزش با متن:
+
 پیش‌نیاز 
 ---
 ترموکس
@@ -33,7 +37,10 @@ https://github.com/masterking32/MasterHttpRelayVPN
 options=>vpn settings=>only tunnel selected apps
 
 سایفون ترکیب کنید وصل شید منتظر بمونید تا تلگرام لود شه
-نمونه:
+
+# اموزش با ویدیو:
+
+# نمونه :
 
 
 https://punkpaste.ir/f/Screenshot-2026-05-0-31b5rq
