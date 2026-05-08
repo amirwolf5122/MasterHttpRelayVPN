@@ -44,5 +44,8 @@ options=>vpn settings=>only tunnel selected apps
 
 https://punkpaste.ir/f/Screenshot-2026-05-0-31b5rq
 https://punkpaste.ir/f/Screenshot-2026-05-0-ngqp8w
-<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c9fc286c-23fb-4149-9402-c7c76c9c694e" />
-<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/11f1d67a-b8b7-4d6d-9b17-02e3b4fcc716" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9fc286c-23fb-4149-9402-c7c76c9c694e" width="45%">
+  <img src="https://github.com/user-attachments/assets/11f1d67a-b8b7-4d6d-9b17-02e3b4fcc716" width="45%">
+</p>
+
