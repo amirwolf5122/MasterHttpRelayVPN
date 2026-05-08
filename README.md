@@ -38,7 +38,7 @@ options=>vpn settings=>only tunnel selected apps
 سایفون ترکیب کنید وصل شید منتظر بمونید تا تلگرام لود شه
 
 # [اموزش با ویدیو لینک مستقیم](https://raw.githubusercontent.com/amirwolf512k/data/refs/heads/main/video.mp4)
-
+https://m.youtube.com/watch?v=U8yAa_GYEdc
 # نمونه :
 
 <p align="center">
