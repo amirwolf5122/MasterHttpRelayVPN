@@ -31,7 +31,7 @@ https://github.com/masterking32/MasterHttpRelayVPN
 هاست 127.0.0.1
 پورت هم خودتون تو config.json وارد کردید بزنید
 
-یک نکته ک هست سایفون فقط اپ های ک میخواید تانل شه انتخاب کنید
+یک نکته ک هست سایفون فقط اپ های ک میخواید تانل شه انتخاب کنید(ترموکس نباید تانل شه)
 مسیر 
 options=>vpn settings=>only tunnel selected apps
 
@@ -39,6 +39,8 @@ options=>vpn settings=>only tunnel selected apps
 
 # [اموزش با ویدیو لینک مستقیم](https://raw.githubusercontent.com/amirwolf512k/data/refs/heads/main/video.mp4)
 https://m.youtube.com/watch?v=U8yAa_GYEdc
+
+`چیزی ک فهمیدم با برنامه شیر خورشید سرعت بهتری داره`
 # نمونه :
 
 <p align="center">
