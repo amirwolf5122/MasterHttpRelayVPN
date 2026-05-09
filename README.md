@@ -39,6 +39,9 @@ pip install -r requirements.txt -i https://mirror-pypi.runflare.com/simple/ --tr
 ```
 Options → Proxy Settings
 ```
+⚠️ **نکته مهم:** 
+از http استفاده کنید
+
 - **Host:** `127.0.0.1`  
 - **Port:** عددی که در فایل `config.json` تنظیم کرده‌اید. `8085`
 
