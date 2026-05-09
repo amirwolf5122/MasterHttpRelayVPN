@@ -40,7 +40,7 @@ pip install -r requirements.txt -i https://mirror-pypi.runflare.com/simple/ --tr
 Options → Proxy Settings
 ```
 - **Host:** `127.0.0.1`  
-- **Port:** عددی که در فایل `config.json` تنظیم کرده‌اید.
+- **Port:** عددی که در فایل `config.json` تنظیم کرده‌اید. `8085`
 
 ۳. برای تونل کردن فقط برنامه‌های موردنظر:
 ```
