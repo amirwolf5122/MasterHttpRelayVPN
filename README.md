@@ -5,6 +5,7 @@
 پیش‌نیاز 
 ---
 [termux](https://github.com/termux/termux-app/releases)
+فقط از نسخه گیت هاب استفاده کنید
 ```
 pkg install python3 git -y
 apt install python-cryptography
