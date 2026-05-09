@@ -1,10 +1,10 @@
-# MasterHttpRelayVPN + termux +psiphon
+# MasterHttpRelayVPN + termux + psiphon
 کاربرد: تونل کردن MasterHttpRelayVPN همه برنامه تو اندروید [متن قبلی](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/issues/847)
 # اموزش با متن:
 
 پیش‌نیاز 
 ---
-ترموکس
+[termux](https://github.com/termux/termux-app/releases)
 ```
 pkg install python3 git -y
 apt install python-cryptography
