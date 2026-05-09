@@ -29,27 +29,26 @@ pip install -r requirements.txt -i https://mirror-pypi.runflare.com/simple/ --tr
 
 ## ⚡ ادغام با Psiphon
 
-۱. از این مخزن گیت‌هاب استفاده کنید:  
-👉 [https://github.com/masterking32/MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN)  
+⚠️ **نکته مهم:** 
 نسخه‌ی **mhrv-rs** تست شده ولی کار نکرد.
 
-۲. پس از اجرای برنامه در ترموکس، فایل **CA Certificate** تولید می‌شود.  
+۱. پس از اجرای برنامه در ترموکس، فایل **CA Certificate** تولید می‌شود.  
 فایل را به حافظه گوشی منتقل کرده و دستی نصب کنید.
 
-۳. داخل برنامه **Psiphon** مسیر زیر را دنبال کنید:
+۲. داخل برنامه **Psiphon** مسیر زیر را دنبال کنید:
 ```
 Options → Proxy Settings
 ```
 - **Host:** `127.0.0.1`  
 - **Port:** عددی که در فایل `config.json` تنظیم کرده‌اید.
 
-۴. برای تونل کردن فقط برنامه‌های موردنظر:
+۳. برای تونل کردن فقط برنامه‌های موردنظر:
 ```
 Options → VPN Settings → Only tunnel selected apps
 ```
 برنامه‌ی Termux نباید در لیست تونل‌شده باشد.
 
-۵. حالا Psiphon را فعال کنید و منتظر بمانید تا برنامه‌هایی مثل تلگرام متصل شوند.
+۴. حالا Psiphon را فعال کنید و منتظر بمانید تا برنامه‌هایی مثل تلگرام متصل شوند.
 
 ---
 
