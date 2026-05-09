@@ -36,7 +36,9 @@ https://github.com/masterking32/MasterHttpRelayVPN
 options=>vpn settings=>only tunnel selected apps
 
 سایفون ترکیب کنید وصل شید منتظر بمونید تا تلگرام لود شه
-
+```
+pip install -r requirements.txt -i https://mirror-pypi.runflare.com/simple/ --trusted-host mirror-pypi.runflare.com
+```
 # [اموزش با ویدیو لینک مستقیم](https://raw.githubusercontent.com/amirwolf512k/data/refs/heads/main/video.mp4)
 https://m.youtube.com/watch?v=U8yAa_GYEdc
 
